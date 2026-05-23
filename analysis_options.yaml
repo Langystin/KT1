@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Здесь можно указать дополнительные правила, если необходимо
+    # Например:
+    # avoid_print: true
